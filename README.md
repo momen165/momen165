@@ -1,7 +1,7 @@
 ## Hi there, I'm Momen 👋
 
-🎓 I'm a Computer Science student, passionate about building cool, helpful software and learning new tech every day.  
-📍 Currently studying at **Palestine Technical University – Kadoorie**
+🎓 I'm a Computer Science graduate, passionate about building cool, helpful software and learning new tech every day.  
+📍 Studeied at **Palestine Technical University – Kadoorie**
 
 ---
 
@@ -25,12 +25,6 @@
 
 ---
 
-### 🎯 Goals
-- Land freelance jobs on **Upwork** and build an impressive portfolio  
-- Make learning code easier and more fun for others  
-- Keep growing as a dev and creative problem-solver
-
----
 
 ### 📫 Let’s Connect
 - Open to collabs, freelance gigs, or just tech convos  
