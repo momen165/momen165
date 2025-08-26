@@ -6,28 +6,25 @@
 ---
 
 ### 🚀 Projects & Work
-- 💻 **DevQuest** – A dev-focused React + Node.js app.
-- 🧠 Working on a **code-learning platform** with features like interactive lessons, Judge0 code execution, and real-time feedback.  
-- 🧪 Currently experimenting with other cool stuff.
+- 💻 **DevQuest** – A dev-focused React + Node.js app a **code-learning platform** with features like interactive lessons, Judge0 code execution, and real-time feedback.
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** React, Tailwind CSS, Bootstrap Studio  
+- **Frontend:** React,Next.js ,Tailwind CSS ,Javascript
 - **Backend:** Node.js, Express, Supabase  
 - **Database:** PostgreSQL  
-- **Other Tools:** PyCharm, CLion, WSL  
+- **Other Tools:** PyCharm, CLion,VScode, WSL  
 
 ---
 
 ### 🌱 Currently Learning
-- C++
 - Full-stack web dev with a focus on clean UX
 
 ---
 
 
 ### 📫 Let’s Connect
-- Open to collabs, freelance gigs, or just tech convos  
+- Open to collabs.
 - Hit me up via [GitHub Issues](https://github.com/momen165/momen165/issues) or through your preferred platform!
 
 ---
