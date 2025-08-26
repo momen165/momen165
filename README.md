@@ -1,6 +1,6 @@
 ## Hi there, I'm Momen 👋
 
-🎓 I'm a Computer Science graduate, passionate about building cool, helpful software and learning new tech every day.  
+🎓 I'm a Applied computing graduate, passionate about building cool, helpful software and learning new tech every day.  
 📍 Studeied at **Palestine Technical University – Kadoorie**
 
 ---
